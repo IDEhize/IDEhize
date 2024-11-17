@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <a href="https://t.me/IDEhize"><img src="https://uni-vent.ru/images/6484cb1381c76.png?1695031724465" width="36" height="36" alt="TG" /></a>
+  <a href="https://t.me/IDEhize"><img src="https://okeygeek.ru/wp-content/uploads/2020/08/telegram-2048x2048.png" width="36" height="36" alt="TG" /></a>
   <a href="https://vk.com/idehize"><img src="https://static.tildacdn.com/tild6537-3437-4431-a564-313761616336/vk-ts1623650785.png" width="36" height="36" alt="VK" /></a> 
 </div>
 
