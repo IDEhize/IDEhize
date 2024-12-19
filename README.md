@@ -43,7 +43,7 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
   <img src="https://dc.bmstu.ru/wp-content/uploads/2024/08/Sql_data_base_with_logo.png" width="72" height="36" alt="MSQL" />
-  <img src="https://i.pinimg.com/originals/06/86/c0/0686c0c85407548ea5bd737a572974b6.png" width="36" height="36" alt="PostgreSQL" />
+  <img src="https://opensource.com/sites/default/files/postgresql.png" width="72" height="36" alt="PostgreSQL" />
 </div>
 
 ###
