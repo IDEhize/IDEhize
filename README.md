@@ -42,7 +42,6 @@
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-  <img src="https://dc.bmstu.ru/wp-content/uploads/2024/08/Sql_data_base_with_logo.png" width="72" height="36" alt="MSQL" />
   <img src="https://graphql-engine-cdn.hasura.io/learn-hasura/assets/database-postgresql/postgres-logo.png" width="42" height="36" alt="PostgreSQL" />
 </div>
 
