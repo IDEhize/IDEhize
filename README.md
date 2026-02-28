@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I am a beginner 🔙🔚 developer. I got acquainted with the IT field at school in computer science classes and later enrolled in the "College of Information Technology" at KNITU-KAI. I study here to this day and develop my programming skills.<br>
+<p align="left">I am a developer and QA Engineer I got acquainted with the IT field at school in computer science classes and later enrolled in the "College of Information Technology" at KNITU-KAI. I study here to this day and develop my programming skills.<br>
 
 ###
 
